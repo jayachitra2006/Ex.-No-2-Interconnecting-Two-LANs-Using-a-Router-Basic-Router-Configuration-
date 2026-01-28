@@ -1,6 +1,7 @@
-# Date :
+# Date :28/1/2026
 ## Ex.-No-2-Interconnecting-Two-LANs-Using-a-Router-Basic-Router-Configuration
-
+#  name: JAYACHITRA J
+#  Reg no: 212224040132
 
 # Objective
 To configure a router to connect two separate LANs and enable communication between them using static IP addressing.
@@ -55,6 +56,11 @@ ________________________________________
 •	Router CLI configuration<br>
 •	IP configurations on PCs<br>
 •	Successful ping between PC0 and PC1<br>
+
+<img width="1875" height="1015" alt="Screenshot 2026-01-23 111243" src="https://github.com/user-attachments/assets/e7864f63-34fe-46b7-9d7b-32ab2f9f92d6" />
+<img width="1919" height="1142" alt="Screenshot 2026-01-23 113524" src="https://github.com/user-attachments/assets/54c5a8a7-149f-419b-9d35-65d48d4e7db5" />
+
+
 ________________________________________
 # Result
 Successfully configured a router to connect two LANs. Communication between PC0 and PC1 across different networks was tested and verified.
