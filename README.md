@@ -57,8 +57,10 @@ ________________________________________
 •	IP configurations on PCs<br>
 •	Successful ping between PC0 and PC1<br>
 
-<img width="1875" height="1015" alt="Screenshot 2026-01-23 111243" src="https://github.com/user-attachments/assets/e7864f63-34fe-46b7-9d7b-32ab2f9f92d6" />
-<img width="1919" height="1142" alt="Screenshot 2026-01-23 113524" src="https://github.com/user-attachments/assets/54c5a8a7-149f-419b-9d35-65d48d4e7db5" />
+
+<img width="1912" height="1171" alt="Screenshot 2026-01-28 085809" src="https://github.com/user-attachments/assets/341ef1c5-ff1d-42d2-a05c-b13a94c34432" />
+
+<img width="1586" height="986" alt="image" src="https://github.com/user-attachments/assets/93382eec-f7ff-4851-b50c-7c5b8dc7c68e" />
 
 
 ________________________________________
